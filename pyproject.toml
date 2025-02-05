@@ -1,0 +1,5 @@
+[project]
+name = "ios-app-store-submit"
+version = "0.1.0"
+description = "Claude Code skill for automating iOS App Store submission."
+requires-python = ">=3.10"
